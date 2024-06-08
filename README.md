@@ -3,6 +3,9 @@
 <!--
 **arshkumarsingh/arshkumarsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![arshkumarsingh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arshkumarsingh&theme=vue-dark&hide_border=true)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
