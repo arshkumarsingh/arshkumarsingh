@@ -6,6 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=arshkumarsingh&theme=onedark)](https://github.com/arshkumarsingh/github-profile-trophy)
 - 🌱 I’m currently learning Everything there is to learn :)
 - 💬 Ask me about Anything
-- 📫 How to reach me: E-Mail:arshk4219@gmail.com
+- 📫 How to reach me: E-Mail: arshk4219@gmail.com
 - 😄 Pronouns: He/Him
 
